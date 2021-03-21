@@ -1,1 +1,1 @@
-"this is sample application" 
+Demonstration of one way sync
